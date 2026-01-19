@@ -1,16 +1,9 @@
-# sandbox_project
+# trailhead-sandbox
 
-A new Flutter project.
+Sandbox utility app w/ Nice-ish UI. 
+Used to play around with future backend and utilities that I plan to add to TrailHead. 
+Helping me with redoing the Trailhead project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Features 
+- Firebase db, implements cloud functions, active service tracking for host's & Clients
+- Error Handling
