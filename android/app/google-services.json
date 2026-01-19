@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "256522659254",
+    "project_id": "sandbox-project-cc1c3",
+    "storage_bucket": "sandbox-project-cc1c3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:256522659254:android:65e9ba29ea139457940d17",
+        "android_client_info": {
+          "package_name": "com.example.sandbox_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDg3kgShu4m0U2jK0WGQ1K-R47WA7KMp0w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
